@@ -1,10 +1,10 @@
-### ¡Hola Mundo!
+### ¡Hola Mundo! ![visitors](https://img.shields.io/twitch/status/optimusdrift?label=OptimusDrift&logo=twitch&style=social)
 
 ¿Qué estas haciendo por aquí?
 
 ![Alt Text](https://media3.giphy.com/media/joYGxDpl7ltxhlIzIm/giphy.gif)
 
-Bueno, ya que te pasaste a saludar, ten, come algo. ![visitors](https://img.shields.io/twitch/status/optimusdrift?label=OptimusDrift&logo=twitch&style=social)
+Bueno, ya que te pasaste a saludar, ten, come algo.
 
 ![Alt Text](https://pa1.narvii.com/7427/a5c4bfd8d49cdb589988e6d30155d3020859bfc8r1-500-348_hq.gif)
 <!--
