@@ -8,7 +8,12 @@ Bueno, ya que te pasaste a saludar, ten, come algo.
 
 ![Alt Text](https://pa1.narvii.com/7427/a5c4bfd8d49cdb589988e6d30155d3020859bfc8r1-500-348_hq.gif)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 <!--
 **OptimusDrift/OptimusDrift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
