@@ -11,6 +11,8 @@ Bueno, ya que te pasaste a saludar, ten, come algo.
 <a href="https://www.twitch.tv/optimusdrift">
   <img align="center" src="https://img.shields.io/twitch/status/OptimusDrift?label=OptimusDrift&logo=twitch&logoColor=white&style=for-the-badge" />
 </a>
+
+<br>
 <br>
 <a href="https://optimusdrift.github.io/Dekhy/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optimusdrift&repo=Dekhy" />
