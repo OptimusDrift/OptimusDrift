@@ -8,7 +8,9 @@ Bueno, ya que te pasaste a saludar, ten, come algo.
 
 ![Alt Text](https://pa1.narvii.com/7427/a5c4bfd8d49cdb589988e6d30155d3020859bfc8r1-500-348_hq.gif)
 
-![visitors](https://img.shields.io/twitch/status/OptimusDrift?label=OptimusDrift&logo=twitch&logoColor=white&style=for-the-badge)
+<a href="https://img.shields.io/twitch/status/OptimusDrift?label=OptimusDrift&logo=twitch&logoColor=white&style=for-the-badge">
+  <img align="center" src="https://www.twitch.tv/optimusdrift" />
+</a>
 
 <a href="https://optimusdrift.github.io/Dekhy/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optimusdrift&repo=Dekhy" />
