@@ -7,7 +7,7 @@
 Bueno, ya que te pasaste a saludar, ten, come algo.
 
 ![Alt Text](https://pa1.narvii.com/7427/a5c4bfd8d49cdb589988e6d30155d3020859bfc8r1-500-348_hq.gif)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://discord.com/invite/3JNFfhy?style=for-the-badge&logo=discord&logoColor=white)
 <a href="https://optimusdrift.github.io/Dekhy/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=optimusdrift&repo=Dekhy" />
 </a>
