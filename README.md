@@ -1,3 +1,13 @@
+<div align="center"><h1><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> ¡Hello World! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
+  </div> <br>
+<div align="justify">
+Welcome! My name is Drift and I'm from Argentina. I 💙 video games and programming so I decided to become a video game developer. Currently I dedicate myself to studying my second university career and working in one of the workshops of the same university, in addition to that I'm a night streamer and in the few free times I have, I dedicate them to my personal projects.<br>
+</div>
+<div align="center">
+He's <b>Xylidramon</b>, my partner, you may see him stowaway in some project.<br>
+<img src="https://cdn.discordapp.com/attachments/860647425000472586/952698651325628526/Xylidramon_HELLO.gif">
+</div><br>
+
 <div align="center"><h1><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> ¡Hola Mundo! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
   </div> <br>
 <div align="justify">
@@ -7,7 +17,8 @@
 Él es <b>Xylidramon</b>, mi compañero, puede que lo vean de polizón en algún proyecto.<br>
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/916956070872772648/Xylidramon_HOLA.gif">
 </div><br>
-<div align="center"><h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> Pueden contactarme por cualquiera de mis redes sociales <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2>
+<div align="center"><h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> Pueden contactarme por cualquiera de mis redes sociales <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2><br>
+  <h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> You can contact me through any of my social networks <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2>
   </div> <br>
   
   
