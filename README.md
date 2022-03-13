@@ -17,8 +17,7 @@ He's <b>Xylidramon</b>, my partner, you may see him stowaway in some project.<br
 Él es <b>Xylidramon</b>, mi compañero, puede que lo vean de polizón en algún proyecto.<br>
 <img src="https://cdn.discordapp.com/attachments/860647425000472586/916956070872772648/Xylidramon_HOLA.gif">
 </div><br>
-<div align="center"><h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> Pueden contactarme por cualquiera de mis redes sociales <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2><br>
-  <h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> You can contact me through any of my social networks <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2>
+<div align="center"><h2><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> Pueden contactarme por cualquiera de mis redes sociales <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"><br><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> You can contact me through any of my social networks <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h2><br>
   </div> <br>
   
   
