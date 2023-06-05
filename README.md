@@ -1,7 +1,7 @@
 <div align="center"><h1><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> ¡Hello World! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
   </div> <br>
 <div align="justify">
-Welcome! My name is Drift and I'm from Argentina. I 💙 video games and programming so I decided to become a video game developer. Currently I dedicate myself to studying my second university career and working in one of the workshops of the same university, in addition to that I'm a night streamer and in the few free times I have, I dedicate them to my personal projects.<br>
+Welcome! My name is Drift and I'm from Argentina. I 💙 video games and programming so I decided to become a video game developer. Currently I dedicate myself to studying my second university career and working in <a href="https://www.3dar.com">3dar</a> (is a collective of creatives, pushing the boundaries of Virtual Reality, Animation and Visual Effects), in addition to that I'm a night streamer and in the few free times I have, I dedicate them to my personal projects.<br>
 </div>
 <div align="center">
 He's <b>Xylidramon</b>, my partner, you may see him stowaway in some project.<br>
@@ -11,7 +11,7 @@ He's <b>Xylidramon</b>, my partner, you may see him stowaway in some project.<br
 <div align="center"><h1><img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"> ¡Hola Mundo! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
   </div> <br>
 <div align="justify">
-¡Bienvenidos! Mi nombre es Drift y soy de Argentina. Me encantan los videojuegos y la programación, así que decidí convertirme en desarrollador de videojuegos. En la actualidad me dedico a estudiar mi segunda carrera universitaria y trabajar en uno de los talleres de la misma universidad, además de eso soy streamer nocturno y en los pocos tiempos libres que tengo, los dedico a mis proyectos personales.<br>
+¡Bienvenidos! Mi nombre es Drift y soy de Argentina. Me encantan los videojuegos y la programación, así que decidí convertirme en desarrollador de videojuegos. En la actualidad me dedico a estudiar mi segunda carrera universitaria y trabajar en <a href="https://www.3dar.com">3dar</a> (es un colectivo de creativos que amplía los límites de la realidad virtual, la animación y los efectos visuales), además de eso soy streamer nocturno y en los pocos tiempos libres que tengo, los dedico a mis proyectos personales.<br>
 </div>
 <div align="center">
 Él es <b>Xylidramon</b>, mi compañero, puede que lo vean de polizón en algún proyecto.<br>
