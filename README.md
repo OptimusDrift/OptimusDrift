@@ -1,4 +1,4 @@
-<div align="center"><h1><img src="https://em-content.zobj.net/source/microsoft-teams/363/blue-heart_1f499.png"> ¡Hello World! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
+<div align="center"><h1><img src="https://em-content.zobj.net/source/microsoft-teams/363/blue-heart_1f499.png" width="25%"> ¡Hello World! <img src="https://cdn.discordapp.com/attachments/860647425000472586/916969244271476746/heart.png"></h1>
   </div> <br>
 <div align="justify">
 Welcome! My name is Drift and I'm from Argentina. I 💙 video games and programming so I decided to become a video game developer. Currently I dedicate myself to studying my second university career, in addition to that I'm a night streamer and in the few free times I have, I dedicate them to my personal projects.<br>
